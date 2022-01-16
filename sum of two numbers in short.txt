@@ -1,0 +1,4 @@
+num1=int(input('Enter your first number: '))
+num2=int(input('Enter your Second number: '))
+print('the sum of '+  int (num1) + ' and '+ int (num2) + ' is '+ int (num1+num2))
+#str because its shows concatenate, you can try by putting int in terms of str
